@@ -1,3 +1,5 @@
-print("hello world")
+#!/bin/sh
+
+echo "hello world"
 
 
